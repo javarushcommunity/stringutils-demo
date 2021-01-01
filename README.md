@@ -1,11 +1,10 @@
-## Overview
-Repository with preconfigured maven project with junit5 configuration on a board.
+## StringUtils Overview
+Demonstration project for shoing abilities of StringUtils class in Apache Common library
 
 ## Building
-...
-
-## Troubleshooting
-...
+```shell
+mvn clean package
+```
 
 ## Release Notes
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).

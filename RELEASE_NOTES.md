@@ -1,2 +1,2 @@
 ## 1.0-SNAPSHOT
-*   Created template for new repositories.
+*   A created template for new repositories.
