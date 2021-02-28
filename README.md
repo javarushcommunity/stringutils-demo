@@ -1,5 +1,6 @@
 ## StringUtils Overview
-Demonstration project for shoing abilities of StringUtils class in Apache Common library
+Demonstration project for shoing abilities of StringUtils class in Apache Common library.
+Article about it in russian: [Разбираем по полочкам класс StringUtils](https://javarush.ru/groups/posts/3187-razbiraem-po-polochkam-klass-stringutils)
 
 ## Building
 ```shell
